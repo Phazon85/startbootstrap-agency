@@ -14,7 +14,7 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #272932;
 }
 
 a:hover {
@@ -61,12 +61,12 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #272932;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #272932;
   text-shadow: none;
 }
 
@@ -613,7 +613,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #fed136;
+  border-color: #272932;
   box-shadow: none;
 }
 
@@ -679,5 +679,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #272932;
 }
